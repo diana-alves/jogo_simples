@@ -21,7 +21,7 @@ Aproveite o jogo e boa sorte nas suas tentativas de adivinhar o número! 🍀✨
 
 ---
 
-# Jogo de Pedra-Papel-Tesoura em Python -- jogo2.py
+# Jogo de Pedra-Papel-Tesoura em Python 🎮 -- jogo2.py
 
 Este é um simples jogo de pedra-papel-tesoura em Python, onde você joga contra o computador. Escolha entre pedra, papel ou tesoura, e veja quem vence!
 
@@ -42,4 +42,4 @@ Este é um simples jogo de pedra-papel-tesoura em Python, onde você joga contra
 ## Execução
 Certifique-se de ter Python instalado e execute o script: `python jogo_pedra_papel_tesoura.py`
 
-Divirta-se jogando contra o computador! 🎲✨
+Divirta-se jogando contra o computador! 🎲✨🕹️👾🚀
